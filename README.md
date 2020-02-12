@@ -41,7 +41,7 @@ Since you're on a time crunch at hackathons. It's always a good idea to avoid re
 
 ## Document effectively
 
-If you build a great product but are unable to convey that to present that to the judges than it's as good as a "not so great product". Make sure that you document and present whatever you've built in the most effective manner possible. I can't stress this enough, it's half the challenge. Set aside dedicated time to work on the documentation or presentation (if applicable). Always, have a clear, working example of your product prepared beforehand.
+If you build a great product but are unable to convey that or present that to the judges than it's as good as a "not so great product". Make sure that you document and present whatever you've built in the most effective manner possible. I can't stress this enough, it's half the challenge. Set aside dedicated time to work on the documentation or presentation (if applicable). Always, have a clear, working example of your product prepared beforehand.
 
 ## Be considerate of the evaluation criteria
 
@@ -56,12 +56,12 @@ The idea of building something over night is both exciting and intimidating. One
 - Brainstorm and explore new ideas of solutions to build.
 - Validate and prototype your project or product ideas (if they align with the theme and rules etc.).
 - Challenge yourself. Put your skills to the test!
-- Add to your portfolio. The projects you build, even your participation alone can become a part of your portfolio. The fact that you participate, shows that you enjoy being a problem solver and are interesting in hacking. It is highly advisable to document and publish your projects on GitHub / LinkedIn etc. to showcase what you've built to an even broader community.
+- Add to your portfolio. The projects you build, even your participation alone can become a part of your portfolio. The fact that you participate, shows that you enjoy being a problem solver and are interested in hacking. It is highly advisable to document and publish your projects on GitHub / LinkedIn etc. to showcase what you've built to an even broader community.
 - Broaden your perspective. You get to observe what your peers are building. This can be an inspirational experience.
 - Have fun! Enjoy the healthy competition (most important).
 - Maybe even win prizes, however, this should be the least of your priorities. Focus on challenging yourself and building cool stuff!
 
-Understand that there are no losers in hackathons! You learn a lot within a short span of time. You meet new people, have fun, build cool stuff and add to your portfolio. Isn't that a win already!?
+Understand that there are no losers in hackathons! You learn a lot within a short span of time. You meet new people, have fun, build cool stuff and add to your portfolio. Isn't that a big win already!?
 
 ## Other useful resources
 
