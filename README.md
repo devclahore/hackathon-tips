@@ -4,7 +4,7 @@ An index of useful tips, tricks, resources and guidelines on how to make the mos
 
 ## Manage the time crunch
 
-- Use boilerplates or starter packs to cover some of the basic stuff. No need to re-invent the wheel! Focus on the core functionality of your [MVP (Minimum Viable Product)](https://en.wikipedia.org/wiki/Minimum_viable_product) or your prototype.
+- Use boilerplates or starter packs to cover some of the basic stuff. No need to reinvent the wheel! Focus on the core functionality of your [MVP (Minimum Viable Product)](https://en.wikipedia.org/wiki/Minimum_viable_product) or your prototype.
 - Timebox everything! Make a small mental roadmap and stick to it. Don't waste too much time on any item. Use your time wisely!
 - Divide and conquer! If you are participating as a team, make sure you organize and divide your tasks efficiently.
 - Don't obsess over very low-level details, earlier on in the competition. Focus on the core functionality and add "good to have" features later on, once it is complete. Keep it simple and improve incrementally.
@@ -12,7 +12,7 @@ An index of useful tips, tricks, resources and guidelines on how to make the mos
 
 ## Use starter packs
 
-Since you're on a time crunch at hackathons. It's always a good idea to avoid re-inventing the wheel and wasting time on the basics by using a "boilerplate" or a "starter pack". They provide you a basic foundation to build your solution upon. There are tons of open-source, free to use and modify boilerplates/starter packs out there. Here's a small sample of what they're like:
+Since you're on a time crunch at hackathons. It's always a good idea to avoid reinventing  the wheel and wasting time on the basics by using a "boilerplate" or a "starter pack". They provide you a basic foundation to build your solution upon. There are tons of open-source, free to use and modify boilerplates/starter packs out there. Here's a small sample of what they're like:
 
 - [NodeJS (Express)](https://github.com/sahat/hackathon-starter)
 - [React JS](https://github.com/facebook/create-react-app)
@@ -41,7 +41,7 @@ Since you're on a time crunch at hackathons. It's always a good idea to avoid re
 
 ## Document effectively
 
-If you build a great product but are unable to convey that or present that to the judges than it's as good as a "not so great product". Make sure that you document and present whatever you've built in the most effective manner possible. I can't stress this enough, it's half the challenge. Set aside dedicated time to work on the documentation or presentation (if applicable). Always, have a clear, working example of your product prepared beforehand.
+If you build a great product but are unable to convey that or present that to the judges then it's as good as a "not so great product". Make sure that you document and present whatever you've built in the most effective manner possible. I can't stress this enough, it's half the challenge. Set aside dedicated time to work on the documentation or presentation (if applicable). Always, have a clear, working example of your product prepared beforehand.
 
 ## Be considerate of the evaluation criteria
 
@@ -49,7 +49,7 @@ Focus on the problem that you're trying to solve. This is also very applicable t
 
 ## Have the right mindset
 
-The idea of building something over night is both exciting and intimidating. One might attend a hacakthon for a number of different reasons. In my opinion, hackathons can be a great opportunity to:
+The idea of building something over night is both exciting and intimidating. One might attend a hackathon for a number of different reasons. In my opinion, hackathons can be a great opportunity to:
 
 - Learn new technology and add it to your skillset.
 - Meet new people. Hackathons are usually a team-based activity and you get to engage a lot with other people.
